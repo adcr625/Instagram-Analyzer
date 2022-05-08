@@ -13,9 +13,7 @@ Scrapped data was compared, added, and subtracted from other scrapped data, whic
 
 It then outputs important data for the user to see.
 
-Data included usernames, followers, and the number of followers the user currently had.
-
-They were following, but not returning the favor.
+Data included usernames, followers, and the number of followers the user currently had nd number of followers the user was currently following but they were not following back
 
 Used Matplotlib to aid the user in visualising data with charts.
 
